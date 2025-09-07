@@ -1,0 +1,42 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+
+/* Hide scrollbar by default (WebKit browsers: Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 0;   /* hide scrollbar */
+  background: transparent;
+}
+
+/* Show scrollbar when hovering over body */
+:hover::-webkit-scrollbar {
+  width: 10px; /* scrollbar width when visible */
+}
+
+/* Scrollbar track */
+:hover::-webkit-scrollbar-track {
+  background: #111;
+}
+
+/* Scrollbar thumb */
+:hover::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 5px;
+}
+
+/* Hover effect on scrollbar thumb */
+:hover::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
