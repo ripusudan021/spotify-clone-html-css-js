@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="white" stroke-width="2">
+  <!-- Circle Outline
+  <circle cx="12" cy="12" r="10" /> -->
+  <!-- Triangle pointing right -->
+  <polygon points="8,7 15,12 8,17" fill="white" stroke="none"/>
+  <!-- Vertical bar -->
+  <rect x="15" y="7" width="2" height="10" fill="white" stroke="none"/>
+</svg>
