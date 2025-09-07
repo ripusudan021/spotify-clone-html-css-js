@@ -35,12 +35,12 @@ JavaScript (Vanilla) – Interactivity & functionality
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/spotify-clone-html-css-js.git
+git clone https://github.com/ripusudan021/spotify-clone-html-css-js.git
 ```
 2. Navigate into the project folder
 ```
-      cd spotify-clone-html-css-js
-  ```
+cd spotify-clone-html-css-js
+```
 3.Open index.html in your browser
 ```
 start index.html
